@@ -7,8 +7,12 @@ The textprocessor_test.py script runs everytime you build the system. This scrip
 ### Build Error 
 ![BuildError](BuildError.png)
 
+![CIError1](CI_1.png)
+
 
 
 
 ### Build Successful 
 ![BuildError](BuildSuccessful.png)
+
+![CIError2](CI_2.png)
