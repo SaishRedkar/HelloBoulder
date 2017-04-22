@@ -16,7 +16,7 @@ class ProcessorTestCase(unittest.TestCase):
     def test_count_numeric(self):
         text = "testing123"
         p = textprocessor.Processor(text)
-        self.assertEqual(p.count_numeric(), 4, "numeric count of 'text' does not match input") 
+        self.assertEqual(p.count_numeric(), 3, "numeric count of 'text' does not match input") 
 
     def test_count_vowels(self):
         text = "testing123"
